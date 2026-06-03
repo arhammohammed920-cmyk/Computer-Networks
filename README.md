@@ -1,2 +1,1 @@
-# arham1
-A project
+A mini project for the client and server based connections in cyber security using Kali
